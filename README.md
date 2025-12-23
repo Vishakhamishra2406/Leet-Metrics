@@ -50,6 +50,12 @@ src/
 ├── index.js              # React entry point
 └── index.css             # Global styles
 ```
+## Screenshots
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/530bd26c-f4a9-49b6-bee0-df114205cdd7" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/f1f2525f-996c-46e8-bdfb-9f3e39edb82d" />
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/4194ffed-0f9f-4c3e-a5ed-ddd90cb85ef0" />
+
+
 
 ## Technologies Used
 
