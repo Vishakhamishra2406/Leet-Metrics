@@ -2,6 +2,10 @@
 
 A React.js application to display LeetCode user statistics and progress.
 
+## 🚀 Live Demo
+
+**[View Live App](https://vishakhamishra2406.github.io/Leet-Metrics/)**
+
 ## Features
 
 - Search for LeetCode users by username
@@ -67,3 +71,15 @@ src/
 ## API
 
 This app uses the LeetCode Stats API: `https://leetcode-stats-api.herokuapp.com/{username}`
+
+## Deployment
+
+The app is deployed on GitHub Pages and automatically updates when changes are pushed to the main branch.
+
+**Live URL**: https://vishakhamishra2406.github.io/Leet-Metrics/
+
+### Deploy Commands
+```bash
+npm run build    # Create production build
+npm run deploy   # Deploy to GitHub Pages
+```
