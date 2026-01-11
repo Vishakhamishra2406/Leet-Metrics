@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Leet-Metrics/static/css/main.5d900d31.css",
+    "main.js": "/Leet-Metrics/static/js/main.4ca699a4.js",
+    "index.html": "/Leet-Metrics/index.html",
+    "main.5d900d31.css.map": "/Leet-Metrics/static/css/main.5d900d31.css.map",
+    "main.4ca699a4.js.map": "/Leet-Metrics/static/js/main.4ca699a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d900d31.css",
+    "static/js/main.4ca699a4.js"
+  ]
+}
